@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Layol/vue3-study/issues"
   },
-  "homepage": "https://github.com/Layol/vue3-study#readme"
+  "homepage": "https://github.com/Layol/vue3-study#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
